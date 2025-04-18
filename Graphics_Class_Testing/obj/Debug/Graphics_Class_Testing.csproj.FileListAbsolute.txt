@@ -8,3 +8,13 @@ C:\Users\PusDestroyer228\source\repos\Graphics_Class_Testing\Graphics_Class_Test
 C:\Users\PusDestroyer228\source\repos\Graphics_Class_Testing\Graphics_Class_Testing\obj\Debug\Graphics_Class_Testing.csproj.CoreCompileInputs.cache
 C:\Users\PusDestroyer228\source\repos\Graphics_Class_Testing\Graphics_Class_Testing\obj\Debug\Graphics_Class_Testing.exe
 C:\Users\PusDestroyer228\source\repos\Graphics_Class_Testing\Graphics_Class_Testing\obj\Debug\Graphics_Class_Testing.pdb
+C:\Users\Pusdestroyer228\source\repos\Bondyk228\BuildfYourSelfAHouse\Graphics_Class_Testing\bin\Debug\Graphics_Class_Testing.exe.config
+C:\Users\Pusdestroyer228\source\repos\Bondyk228\BuildfYourSelfAHouse\Graphics_Class_Testing\bin\Debug\Graphics_Class_Testing.exe
+C:\Users\Pusdestroyer228\source\repos\Bondyk228\BuildfYourSelfAHouse\Graphics_Class_Testing\bin\Debug\Graphics_Class_Testing.pdb
+C:\Users\Pusdestroyer228\source\repos\Bondyk228\BuildfYourSelfAHouse\Graphics_Class_Testing\obj\Debug\Graphics_Class_Testing.csproj.AssemblyReference.cache
+C:\Users\Pusdestroyer228\source\repos\Bondyk228\BuildfYourSelfAHouse\Graphics_Class_Testing\obj\Debug\Graphics_Class_Testing.Form1.resources
+C:\Users\Pusdestroyer228\source\repos\Bondyk228\BuildfYourSelfAHouse\Graphics_Class_Testing\obj\Debug\Graphics_Class_Testing.Properties.Resources.resources
+C:\Users\Pusdestroyer228\source\repos\Bondyk228\BuildfYourSelfAHouse\Graphics_Class_Testing\obj\Debug\Graphics_Class_Testing.csproj.GenerateResource.cache
+C:\Users\Pusdestroyer228\source\repos\Bondyk228\BuildfYourSelfAHouse\Graphics_Class_Testing\obj\Debug\Graphics_Class_Testing.csproj.CoreCompileInputs.cache
+C:\Users\Pusdestroyer228\source\repos\Bondyk228\BuildfYourSelfAHouse\Graphics_Class_Testing\obj\Debug\Graphics_Class_Testing.exe
+C:\Users\Pusdestroyer228\source\repos\Bondyk228\BuildfYourSelfAHouse\Graphics_Class_Testing\obj\Debug\Graphics_Class_Testing.pdb
