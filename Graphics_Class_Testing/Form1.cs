@@ -17,7 +17,9 @@ namespace Graphics_Class_Testing
         {
             InitializeComponent();
             g = PictureBox1.CreateGraphics();
-            
+            MessageBox.Show("Hello there!");
+            MessageBox.Show("Here you're going to build yourself a house");
+
         }
         private void Form1_Load(object sender, EventArgs e)
         {
